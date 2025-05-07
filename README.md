@@ -1,1 +1,53 @@
-# CryptoAnalyticsPro
+💹 CryptoAnalyticsPro
+CryptoAnalyticsPro is a comprehensive WinForms desktop application for cryptocurrency traders. It empowers users to track their trades, analyze risks, calculate break-even points, and manage a multi-currency portfolio — all within an elegant and easy-to-use interface.
+
+Whether you're a solo investor or a data-driven trader, this tool is designed to help you make better trading decisions based on real metrics, not guesswork.
+
+Build License Platform Tech
+
+🧠 Project Summary
+CryptoAnalyticsPro is a personal cryptocurrency trade management tool that includes:
+
+A risk analysis dashboard
+Real-time stop-loss and take-profit calculators
+Multi-currency portfolio breakdown
+Trade history tracking
+MS Access database integration for lightweight local data storage
+✨ Features
+📊 Risk Analysis Dashboard Quickly visualize active trades, exposure levels, and key performance metrics at a glance.
+
+🔐 Stop-Loss & Take-Profit Calculator Set precise exit points based on your investment, risk tolerance, and profit goals.
+
+📊 Trade Recommendations (MA50 + RSI) Get basic trade suggestions using Moving Average (50) and Relative Strength Index indicators to guide your entries and exits.
+
+📉 Market Sentiment Analysis Gauge overall market mood using sentiment data to support informed trading decisions.
+
+🔔 Custom Alerts System Stay notified with customizable alerts based on price movements or technical thresholds.
+
+💼 Multi-Currency Portfolio Summary View your portfolio’s value in USD, EUR, and PKR with automatic currency conversions.
+
+📈 Break-even & Profit/Loss (PnL) Calculations Understand your break-even point and monitor how far your trades are into profit or loss.
+
+🗃️ Local Database Support All your data is stored locally using MS Access (.accdb) — no internet or server required.
+
+🧾 Trade History Logs Easily review past trades, apply filters, and track long-term performance trends.
+
+🖼️
+CryptoAnalyticsPro-Crypto-Trading-Analytics-and-Risk-Management.pptx
+
+🧰 Tech Stack
+Tech	Description
+🖥️ C#	Main programming language
+🪟 WinForms	UI Framework for Windows
+🗄️ MS Access	Local database (ACCDB format)
+🔌 ADO.NET	Data access layer (ADO.NET)
+📦 .NET Framework	Application runtime environment
+🙋‍♂️ About the Developers
+Ammar Hassan , Muhammad Ali Saleem , Hamza Mumtaz
+
+🐱 GitHub: @ammarhassan6
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+“Built for traders, by a learner who believes in simplicity, data, and self-improvement.”
