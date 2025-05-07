@@ -58,7 +58,7 @@ Easily review past trades, apply filters, and track long-term performance trends
 ---
 
 ## 🖼️ 
-[CryptoAnalyticsPro-Crypto-Trading-Analytics-and-Risk-Management.pptx]()
+[CryptoAnalyticsPro-Crypto-Trading-Analytics-and-Risk-Management.pptx](https://github.com/ammarhassan6/CryptoAnalyticsPro/blob/main/CryptoAnalyticsPro%20Project%20Presentation.pptx)
 
 ---
 
